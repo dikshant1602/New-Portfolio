@@ -192,7 +192,8 @@ section h2 {
 }
 
 .experience-card {
-    /* MODIFIED POST TUTORIAL */
+    display: grid;
+    text-transform: uppercase;
     gap: 0.5rem 1rem;
 }
 
