@@ -193,13 +193,14 @@ section h2 {
 
 .experience-card {
     display: grid;
-    text-transform: uppercase;
+    text-transform: none;
     gap: 0.5rem 1rem;
 }
 
 .project-card {
     /* MODIFIED POST TUTORIAL */
     gap: 1rem 1rem;
+    font-size: 1rem;
 }
 
 .card-column {
@@ -220,7 +221,7 @@ section h2 {
 }
 
 .experience-card p {
-    font-size: 0.9rem;
+    font-size: 1rem;
 }
 
 .card-header {
